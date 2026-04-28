@@ -2,9 +2,9 @@ name: CI Pipeline
 
 on:
   push:
-    branches: [ atmProjectLearningPy ]
+    branches: [ "**" ]
   pull_request:
-    branches: [ atmProjectLearningPy ]
+    branches: [ "**" ]
 
 jobs:
   build:
