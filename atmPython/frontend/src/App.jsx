@@ -1,4 +1,4 @@
-import './App.css'
+import '../sass/index.scss';
 import { useState } from "react";
 import WelcomeScreen from "./components/WelcomeScreen";
 

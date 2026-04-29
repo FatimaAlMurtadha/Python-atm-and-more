@@ -1,4 +1,3 @@
-import "../sass/WelcomeScreen.scss";
 
 export default function WelcomeScreen({ onInsert }) {
   return (
