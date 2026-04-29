@@ -46,7 +46,7 @@ jobs:
       # 6. Install frontend dependencies
       - name: Install frontend dependencies
         working-directory: atmPython/frontend
-        run: npm ci
+        run: npm install
 
       # 7. Build frontend
       - name: Build frontend
@@ -56,4 +56,3 @@ jobs:
       # 8. Success message
       - name: Pipeline completed
         run: echo "CI pipeline finished successfully!"
-        
