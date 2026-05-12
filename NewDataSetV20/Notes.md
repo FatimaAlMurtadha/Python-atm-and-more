@@ -76,4 +76,12 @@
 - Tutoring sessions are positively associated with academic success.
 - Screen time shows a weak negative relationship with scores.
 
+# The cleaned df
+- shape (8000, 17)
+
+# Hypothesis 
+- ( Students who study more hours tend to get higher final scores)
+- (Higher exam anxiety may negatively affect academic performance)
+- ( Student with tutoring session may achieve better score)
+
 
