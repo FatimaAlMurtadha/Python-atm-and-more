@@ -84,6 +84,10 @@
 - (Higher exam anxiety may negatively affect academic performance)
 - ( Student with tutoring session may achieve better score)
 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
 ### DATA STORYTELLING - Correlation Heatmap ( Student Performance Final Score) 
 - More hours studied + Tutoring sessions per week -> higher final score ( strong - positive - logic).
 - More exam anxiety score + stress level -> less final score ( strong - negative - logic)
@@ -92,8 +96,6 @@
 - Age -> final score ( NO correlation at all) 
 ##### 1. Regular hours studied + tutoring sessions + previous GPA == Best positive factors for good final score
 ##### 2. Anxiety + stress + screen time == Worst negative factors on final score
-
--------------------------------------------------------------------------------------------------------------------------
 
 ### DATA STORYTELLING ( Hours studied vs Final score)
 - More hours studied -> higher final score ( strong - positive - consistent relationship)
@@ -106,5 +108,16 @@
     2. final score ( 20 : 60 )
 #### 1. Studying is the strongest factor affecting performance.
 #### 2. Studying is not the only factor effecting high final score
+
+### DATA STORYTELLING ( Exam anxiety vs Final score)
+-  Higher exam anxiety score -> lower final score ( strong - negative - consistent)
+- High-Performance Zone 
+    1. ( 0 : 3 anxiety level)
+    2. ( 80 : 100 final score)
+- Lower-Performance Zone:
+    1. ( 7: 10 anxiety level)
+    2. ( decrease , absence of high score )
+#### 1. Anxiety students clearly get lower scores.
+#### 2. Anxiety may effect final score more than Hours_Studied
 
 
