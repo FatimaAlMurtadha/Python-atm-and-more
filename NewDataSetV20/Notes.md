@@ -130,3 +130,6 @@
 - (ONLINE) Students still succeed in but may struggle with poor performance ( online -> weaker final score )..
 - (HYBRID) Average performance and results ( hybrid -> medium final score ).
 
+### DATA STORYTELLING (Pairplot of academic and psychological factors)
+- Academic performance depends on a combination of academic effort and psychological state (Studying reduces anxiety).
+- Anxiety and stress impair performance but the anxiety effect is stronger than stress.
