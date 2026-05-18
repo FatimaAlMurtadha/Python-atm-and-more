@@ -16,11 +16,11 @@ The data appears to be a synthetic or cohort dataset from a student study, so co
 ## Running the Notebook
 
 1. Activate your Python environment.
-2. Install any dependencies if needed, for example:
+2. Install the dependencies:
    ```bash
    pip install pandas matplotlib seaborn numpy
    ```
-3. Open `FinalScoreDS.ipynb` in Jupyter or VS Code and run the cells in order.
+3. Open `FinalScoreDS.ipynb` in Jupyter or VS Code and run the cells in order or unn them all by clicking the button Run All.
 
 ## Contents
 
