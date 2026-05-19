@@ -21,7 +21,7 @@ The data appears to be a synthetic or cohort dataset from a student study, so co
    ```bash
    pip install pandas matplotlib seaborn numpy
    ```
-3. Open `FinalScoreDS.ipynb` in Jupyter or VS Code and run the cells in order or unn them all by clicking the button Run All.
+3. Open `FinalScoreDS.ipynb` in Jupyter or VS Code and run the cells in order or run them all by clicking the button Run All.
 
 ## Contents
 
