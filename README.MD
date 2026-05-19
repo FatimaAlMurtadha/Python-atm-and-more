@@ -4,7 +4,7 @@
 
 This folder contains the KK1 analysis for a student performance dataset.
 The analysis is performed in `FinalScoreDS.ipynb` and focuses on how study time, anxiety, stress, and study method relate to final score.
-The dataset kan be downloaded directly as csv file here: `` https://www.kaggle.com/datasets/sarveshchhetri/student-lifestyle-vs-academic-performance-dataset/data ``
+The dataset kan be downloaded directly as csv file here: https://www.kaggle.com/datasets/sarveshchhetri/student-lifestyle-vs-academic-performance-dataset/data 
 
 ## Dataset
 
