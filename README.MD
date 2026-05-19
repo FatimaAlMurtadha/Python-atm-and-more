@@ -38,4 +38,4 @@ The notebook is intended to demonstrate skills in:
 - data cleaning and question-driven analysis
 - narrative documentation in a Jupyter notebook
 
-## more information about the second educational system evaluation "Grade" Go to folder `` NewDataSetV20 ``
+## more information about the second educational system evaluation "Grade" Go to folder ` NewDataSetV20 `
